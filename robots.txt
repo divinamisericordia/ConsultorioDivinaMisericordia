@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://divinamisericordia.github.io/ConsultorioDivinaMisericordia/sitemap.xml
